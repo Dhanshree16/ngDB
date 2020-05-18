@@ -1,0 +1,380 @@
+{
+    "tilesA": [
+        {
+            "text": "A1",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A2",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A3",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A4",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A5",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A6",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A7",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "A8",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "A9",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "A10",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "A11",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A12",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A13",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A14",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A15",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "A16",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A17",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A18",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "A19",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "20",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "21",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A22",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "A23",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "A24",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        }
+    ],
+    "tilesB": [
+        {
+            "text": "B1",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "B2",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "B3",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "B4",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "B5",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "B6",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "B7",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "B8",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "B9",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "B10",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "B11",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "B12",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "B13",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightsalmon"
+        },
+        {
+            "text": "B14",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightsalmon"
+        }
+    ],
+    "tilesC": [
+        {
+            "text": "C1",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C2",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C3",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C4",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C5",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "C6",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C7",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C8",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C9",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C10",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C11",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C12",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C13",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C14",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C15",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C16",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C17",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C18",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C19",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C20",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightPink"
+        },
+        {
+            "text": "C21",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C22",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightGreen"
+        },
+        {
+            "text": "C23",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        },
+        {
+            "text": "C24",
+            "cols": "1",
+            "rows": "1",
+            "color": "lightBlue"
+        }
+    ]
+}
